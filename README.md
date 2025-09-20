@@ -10,21 +10,16 @@ A Databricks oferece uma plataforma integrada para processamento de grandes volu
 ![](./img/ETL_Pipeline_Databricks.jpeg)
 
 
+Neste projeto de Engenharia de Dados basicamente vamos a Extrair, Transformar e Carregar os dados transformados. Para isso vamos usar Spark e construír um pipeline de dados. 
+
+![](./img/Extract_Transform_Load.jpeg)
 
 
+## Por que usar Databricks para Pipelines?
 
-
-
-
-
-
-
-
-
-
-
-
-
+* Processa dados em paralelo
+* Suporta múltiplas linguagens como `Python`, `SQL` e `Scala`.
+* Interface intuitiva de notebook para codificação e colaboração.
 
 
 Thank God!
